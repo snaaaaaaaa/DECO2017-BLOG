@@ -13,15 +13,11 @@ With a community selected, we began to brainstorm possible pages and features th
 
 [FEATURES LIST]
 
-However, before making concrete decisions, we decided on key methods of user research to aid our discovery phase, in order to derive informed insights which we can then base our design off of. Considering the time we had available and the scope of our project, we chose to conduct online ethnography, competitor analysis, and create user personas, where I was responsible for the latter two methods. 
+However, before making concrete decisions, we decided on key methods of user research to aid our discovery phase, in order to derive informed insights which we can then base our design off of. Considering the time we had available and the scope of our project, we chose to conduct online ethnography, and competitor analysis, where I was responsible for the latter method. 
 
 [COMPETITOR ANALYSIS]
 
 The brief continually underlines the importance of personalisation to the community hub, and that this tailor-made experience is what sets BlaBla Corp apart from other community sites. Hence, we felt that it is important to conduct a competitor analysis of existing sites, noting and comparing their features to aspects of the design which were highlighted in the brief: site layout, community structure, advertising, features which encourage continued engagement, as well as personalisation. 
-
-[USER PERSONAS] 
-
-The other method I conducted was creating user personas. This method is valuable for our chosen community in particular, as home cooking is an extremely common practice and hobby, and would hence consist of a large variety of users. Moreover, as the scope for this assignment does not allow for in-depth interviews with potential users, we acknowledge that these personas are largely conceptual, and should be validated through future user testing of the prototype. With this said, they still remain a valuable resource at this discovery stage, as it allows for a more empathetic insight into which design features to prioritise, in order to best suit the brief and potential users. 
 
 After consolidating our research, we then concluded the following design insights:
 
