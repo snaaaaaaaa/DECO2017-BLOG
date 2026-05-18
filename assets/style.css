@@ -62,3 +62,7 @@ ul.post-list{
     list-style: none;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
