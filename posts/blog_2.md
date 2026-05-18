@@ -15,7 +15,7 @@ With a community selected, we began to brainstorm possible pages and features th
 
 However, before making concrete decisions, we decided on key methods of user research to aid our discovery phase, in order to derive informed insights which we can then base our design off of. Considering the time we had available and the scope of our project, we chose to conduct online ethnography, and competitor analysis, where I was responsible for the latter method. 
 
-![Competitor Analysis 1](/competitorAnalysis1.png) 
+![Competitor Analysis 1](images/competitorAnalysis1.png) 
 ![Competitor Analysis 1](/competitorAnalysis2.png) 
 ![Competitor Analysis 1](/competitorAnalysis3.png) 
 
