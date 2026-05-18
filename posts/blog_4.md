@@ -19,7 +19,7 @@ With our main feature finalised we began to structure our Data Definition Docume
 
 ![ERD](assets/ERDscreenshot.png)
 
-After discussing our DDD with a tutor however, they mentioned that five or six tables is likely the limit of the scope for this type of assignment, and that more complicated data designs may affect the feasibility of our design. Furthermore, if we wish to incorporate community adaptations as well, this will have to be a separate DDD table as well, which widens the scope further. 
+After discussing our DDD with a tutor however, they mentioned that five or six tables is likely the limit of the scope for this type of assignment, and that more complicated data designs may affect the feasibility of our design. Furthermore, if we wish to incorporate community adaptations as well, this will have to be a separate DDD table, which widens the scope further. 
 
 To address this concern, for the context of this prototype, I feel that we  may have to consider having these components detached from specific recipes, and instead build them as separate partials which are loaded each time a recipe page is rendered. They will still be dynamic page elements, however instead of being associated with recipe data, they will act as generic stand-ins for how the features would behave in a fully-developed version of the web app. 
 

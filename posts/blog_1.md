@@ -23,9 +23,11 @@ The chosen community should allow for the advertising of products. While this ca
 Normally, such community apps are available on both mobile and desktop, with one primary platform. This would be informed by the chosen community - specifically, the user group the web app would target, as well as the content on the pages, and which screen size would better suit it. 
 
 <u>The BlaBla Corp. social media network</u>
+
 As users enter a universal login which they can use across multiple communities, this user flow should be integrated into the prototype to act as part of the larger BlaBla Corp. network. 
 
 <u>Data</u>
+
 The data which will be used and displayed in the prototype needs to be either easily sourced in likely large quantities, with variety amongst them. The data also needs to be open source and free from any copyright for ethical usage. 
 
 With these factors in mind, I mapped a brainstorm of possible communities to centre our web app prototype around. 
