@@ -11,7 +11,7 @@ In this week’s tutorial, my teammate and I presented our various ideas to each
 
 With a community selected, we began to brainstorm possible pages and features the site could include. 
 
-![Initial Features List](/posts/images/featuresList.png) 
+![Initial Features List](images/featuresList.png) 
 
 However, before making concrete decisions, we decided on key methods of user research to aid our discovery phase, in order to derive informed insights which we can then base our design off of. Considering the time we had available and the scope of our project, we chose to conduct online ethnography, and competitor analysis, where I was responsible for the latter method. 
 
