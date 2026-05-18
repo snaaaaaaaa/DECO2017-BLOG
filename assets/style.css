@@ -122,8 +122,9 @@ p.summary {
 
 p img {
   max-width: 800px;
-  width: 100%;
+  width: 700px;
   height: auto;
   display: block;
   margin: 1.5rem auto;
+  align-items: center;
 }
