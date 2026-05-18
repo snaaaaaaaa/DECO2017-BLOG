@@ -17,7 +17,7 @@ After concluding our discovery phase and consolidating our design insights, we n
 
 With these pages in mind I sketched out a site map marking the key pages and possible user interactions. 
 
-[STRUCTURED SITEMAP DIAGRAM]
+![Sitemap Sketch](/sitemap.jpg) 
 
 At this stage however, I am mindful of the scope of our project, knowing that it may not be possible to build every single one of the planned features. The features which have higher priority, as they showcase and support our stand out feature and are the most reinforced by research, are the home page, the create recipe feature, and the browse recipes page with a filtering system. Moreover, the trending recipes section on the home page, the ability to save recipes, as well as the comments & adaptations sections all promote continued user engagement, which serves the advertising aspect of the brief. 
 
@@ -25,8 +25,7 @@ With this said, there is not yet a structured or set format for how the website 
 
 Next, with the pages decided, we began to create wireframes for our pages. Considering modular, component based design covered in this week’s lecture, before creating the wireframes I decided that displaying each recipe as a card, with a picture and information, (rather than a list or grid),  gives a set component design which can be used across multiple pages. Below are the wireframes I designed for the user profile, and browse recipe pages. 
 
-[USER PROFILE WIREFRAME]
-[BROWSE RECIPES WIREFRAME]
+![Wireframes](/wireframes.png)
 
 Further considering modular design, after reviewing my wireframes I can recognise that the universal nav bar and footers, can also be separated into components. The overall layout differs between pages, however the header and footer remain the same, hence the modularity of layout templates may have to be explored throughout development, rather than at this stage. 
 
