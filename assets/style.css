@@ -119,3 +119,9 @@ p.summary {
   margin-top: 0.75rem;
   font-size: 0.95rem;
 }
+
+img {
+  max-width: 800px;
+  width: 100%;
+  height: auto;
+}
