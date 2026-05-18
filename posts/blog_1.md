@@ -30,7 +30,7 @@ The data which will be used and displayed in the prototype needs to be either ea
 
 With these factors in mind, I mapped a brainstorm of possible communities to centre our web app prototype around. 
 
-![Brainstorm](../assets/brainstorm.jpg)
+![Brainstorm](assets/brainstorm.jpg) 
 
 From there, I narrowed it down to two key communities, which I felt had the most opportunities to fit the given brief, both conceptually and technically. Below is each community listed with the reasons I considered each one in relation to the brief, as well as prospective features. 
 
