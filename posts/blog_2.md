@@ -1,5 +1,5 @@
 ---
-title: Blog Post 2
+title: Blog 2
 date: 2026-04-20
 author: Sanjana Dommatmari
 summary: Discovery
