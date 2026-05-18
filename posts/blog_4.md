@@ -11,13 +11,13 @@ This week, we began to design and finalise the structure of our site’s data, a
 
 To do this, we first finalised our stand-out feature, what data it will require, and how it will integrate into the overall flow and structure of the website. We decided that our recipe creation feature will have a set format which allows users to easily upload a recipe into a structured form, with a picture, and selecting a range of tags to describe the recipe, as well as making it easier to categorise in the overall browse page. The sketch below illustrates our planning of this feature and its structure.
 
-![Recipe function Planning](/recipeFeaturePlanning.png)
+![Recipe function Planning](posts/images/recipeFeaturePlanning.png)
 
 Our recipe creator will be accessed through the user’s profile page. After the user submits the completed recipe, it will appear as a recipe card on both their profile page, and the browse recipes page, and clicking on each card will render a template for a dedicated recipe page. These recipe pages will have all the associated steps and ingredients, as well as multiple components as features, such as comments, and community contributed adaptations. 
 
 With our main feature finalised we began to structure our Data Definition Document (DDD). As the nature of our feature leaves large room for variety in the user input, namely in the ingredient names, instructions, and comments, we realised our data would require numerous tables, and so we did multiple passes when creating our DDD to ensure each attribute has only one example value. This left us with five tables for recipes, tags, ingredients, steps and comments, and one junction entity for recipe_tags. We then used ChatGPT to help convert our tables into DBML, where we then put this schema into dbdiagram.io to generate an Entity Relationship Diagram (ERD). 
 
-![ERD](/ERDscreenshot.png)
+![ERD](posts/images/ERDscreenshot.png)
 
 After discussing our DDD with a tutor however, they mentioned that five or six tables is likely the limit of the scope for this type of assignment, and that more complicated data designs may affect the feasibility of our design. Furthermore, if we wish to incorporate community adaptations as well, this will have to be a separate DDD table as well, which widens the scope further. 
 

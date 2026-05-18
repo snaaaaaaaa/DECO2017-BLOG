@@ -61,9 +61,3 @@ ul.tags-list {
 ul.post-list{
     list-style: none;
 }
-
-.image {
-    width: 100%;
-    max-width: 900px;
-    height: auto;
-}
