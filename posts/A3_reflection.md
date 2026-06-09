@@ -97,11 +97,9 @@ I believe a crucial part of our prototype’s success was pioritising the develo
 Though some features had to be rescoped, we adapted them to ensure their purpose was still properly represented. 
 
 <u>Recipe Comments & Adaptations:</u>
-
 We initially intended to have unique comments and adaptations for each recipe, however the data handling required is beyond the scope of this prototype. In order to keep the features, we developed them as generic partials and loaded the same example posts into every recipe page, instead of linking unique posts to recipe data. This ensured we could still showcase these key features, ensure they’re functioning, while remaining within scope.
 
 <u>Community page & features:</u>
-
 While we developed a working ‘Join Community’ button, to remain within scope we only built out one community page with a static layout. In a fully-built product, all the features on the page would be functional, and each community page would have a similar structure.
 
 <h3>Cut features for future development:</h3>
