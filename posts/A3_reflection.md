@@ -1,8 +1,8 @@
 ---
-title: A3 Reflection
+title: A3 Reflection 
 date: 2026-06-09
 author: Sanjana Dommatmari
-summary: My final reflection of our community web app, evaluating its performance, user experience, the development of functional requirements, and a reflection on lessons learned.
+summary: My final reflection of our community web app prototype, evaluating its performance, user experience, the development of functional requirements, and a reflection on lessons learned.
 tags:
   - Final Reflection
   - Evaluation
@@ -74,7 +74,6 @@ As well as this, we also prioritised the accessibility of our site, by checking 
 
 Moreover, in order to ground these observations in evidence, I conducted user testing with two participants using a Think-Aloud Protocol. In this testing, I asked participants to complete a set of four tasks, while taking notes on their behaviour and verbal protocol, as seen in the tables below. 
 
-
 ![User Testing part 1](assets/user-testing_1.png) 
 ![User Testing part 2](assets/user-testing_2.png) 
 ![User Testing part 3](assets/user-testing_3.png) 
@@ -125,4 +124,5 @@ Overall, the development of this prototype was a significant learning process. F
 Moreover, another challenge was learning how to collaborate using Github. It was fundamental learning how to communicate effectively in order to split tasks amongst us to work on different files, while still making progress and prioritising features throughout. 
 
 What I felt was most significant to my experience of web development, was learning to assess and refine scope as development progresses. As the feasibility of this project was less initially predictable (likely due to my inexperience), the scope had to regularly be reviewed and revised throughout development. This highlighted the importance of regularly assessing feasibility, while also teaching me how to adapt out-of-scope features to be more realistic, while still maintaining their purpose. In turn, I feel that I can now confidently apply this thinking and design approach to future projects, to achieve better-developed results. 
+
 
