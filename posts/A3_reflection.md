@@ -75,7 +75,9 @@ As well as this, we also prioritised the accessibility of our site, by checking 
 Moreover, in order to ground these observations in evidence, I conducted user testing with two participants using a Think-Aloud Protocol. In this testing, I asked participants to complete a set of four tasks, while taking notes on their behaviour and verbal protocol, as seen in the tables below. 
 
 
-[USER TESTING TABLE]
+![User Testing part 1](assets/user-testing_1.png) 
+![User Testing part 2](assets/user-testing_2.png) 
+![User Testing part 3](assets/user-testing_3.png) 
 
 The testing hence supported the usability of our prototype, as users were able to complete all tasks quickly and efficiently, without any extra required guidance or prompting.
 
