@@ -17,7 +17,7 @@ After now having completed our prototype, I believe we were successful in making
 
 On the whole, the prototype performs efficiently and reliably throughout the different pages. All prototyped interactions work as intended and with fast load times. As well as this, throughout user testing, all buttons, hover features, type features, form submissions, and image loading responded reliably. 
 
-In terms of error handling,  development of the prototype, I found that it was important to ensure the front-end javascript file for the serving scaler loaded properly, as it existed outside of the MVC structure the majority of the site is developed in. This test can be seen in the console with a debug log, ensuring the serving scaler is loaded, as well as the number of elements it recognises in the ingredients list which can be scaled.
+In terms of error handling, during the development of the prototype, I found that it was important to ensure the front-end javascript file for the serving scaler loaded properly, as it existed outside of the MVC structure the majority of the site is developed in. This test can be seen in the console with a debug log, ensuring the serving scaler is loaded, as well as the number of elements it recognises in the ingredients list which can be scaled.
 
 ![Serving Scaler non-active](assets/serving-scaler_home.png) 
 
